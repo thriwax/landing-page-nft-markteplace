@@ -1600,6 +1600,7 @@ footer {
 
   .categories {
     padding-top: 0;
+    gap: 15px;
   }
 
   .categories h1 {
