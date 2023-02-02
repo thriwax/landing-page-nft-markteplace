@@ -1273,6 +1273,7 @@ footer {
 
   .categories {
     max-width: 690px;
+    gap: 15px;
   }
 
   .card_info {
